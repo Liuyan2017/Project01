@@ -59,7 +59,7 @@ import java.util.*;
 
 
  */
-public class HelloWorld {
+public class HelloWorld { // yy2
     //测试
     int age = 0;
     String username = "yanyan";
