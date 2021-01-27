@@ -55,7 +55,7 @@ import java.util.*;
 46	关闭打开的所有代码栏(close all)				ctrl + shift + w
 47	快速搜索类中的错误(next highlighted error)			ctrl + shift + q
 48	选择要粘贴的内容(Show in Explorer)				ctrl+shprivate static int num;ift+v
-49	查找方法在哪里被调用(Call Hierarchy)				ctrl+shift+h
+49	查找方法在哪里被调用(Call Hierarchy)				ctrl+shift+h --。。。
 
 
  */
